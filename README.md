@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Snackpass is a company surfaced as a portfolio company of a16z, craft-ventures, general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Snackpass is an all-in-one marketing, point-of-sale (POS), and payments platform built for quick-service and fast-casual restaurants. It unifies front-of-house and back-of-house operations in one system: cloud POS, integrated card and mobile payments, self-serve kiosks, online and QR/table ordering, a consumer mobile app, kitchen display systems, loyalty and rewards, SMS/marketing automation, and commission-free delivery. Snackpass serves thousands of restaurants from independent boba and coffee shops to national franchises and has facilitated tens of millions of guest transactions. The company is privately held and backed by a16z, Craft Ventures, and General Catalyst. Snackpass does not publish a public developer API, OpenAPI specification, SDKs, or a developer portal; third-party ordering and delivery integrations (Uber Eats, DoorDash, GrubHub) are brokered through partners such as Deliverect and GetOrder rather than a documented public API surface.
 
-Backed by: a16z, craft-ventures, general-catalyst — https://snackpass.co
+**Areas:** Company · Restaurant · Point-of-Sale · Payments · Food Ordering · Loyalty · Marketing · Kiosk · Hospitality
+
+## Snackpass on APIs.io
+
+Everything profiled for Snackpass is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/snackpass/](https://apis.io/providers/snackpass/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Snackpass Domain Security](https://apis.io/security/snackpass/snackpass-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://web.snackpass.co)
+- [Sign up](https://dashboard.snackpass.co/)
+- [Support](https://support.snackpass.co/en/)
+- [Terms of service](https://legal.snackpass.co/)
+- [Privacy policy](https://privacy.snackpass.co/)
+- [GitHub](https://github.com/snackpass)
+
+## API Evangelist rating
+
+**Kin Score 6.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.9** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/snackpass/](https://apis.io/providers/snackpass/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Snackpass: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/snackpass/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
